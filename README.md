@@ -3,11 +3,7 @@
 I am an inquisitive self-driven full stack web developer with a deep passion for exploring new technologies via coding, photography, video editing, projection mapping, and music production and performance. 
 
 I transitioned from Software Sales to Software Development based on my natural enthusiasm
-towards algorithmic problem-solving and my eagerness to be a life-long learner. 
-
-I believe that any complex problem can be broken down into manageable chunks and solved with due diligence. 
-
-I am a professional Googler. 
+towards algorithmic problem-solving and my eagerness to be a life-long learner. I believe that any complex problem can be broken down into manageable chunks and solved with due diligence. 
 
 # Projects 💻
 
@@ -27,6 +23,7 @@ I am a professional Googler.
 
 🌿 Looking for that perfect recreational medication? Select desired effects, medical effects, and negative effects to avoid, Herbals filters through about 2,000 strains of cannabis to show users what strains match their needs! Also view flavors and type (indica/ sativa/ hybrid), and search for strains by keyword. 
 
+[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan)](https://github.com/jorpan/github-readme-stats)
 
 # Get in Touch 🐚
 
