@@ -1,4 +1,4 @@
-Hello! I'm Jordan! 🎵 🎺 🎹 📷 🎥 💻 🏂 ⛳ 
+# Hello! I'm Jordan! 🎵 🎺 🎹 📷 🎥 💻 🏂 ⛳ 
 
 I am an inquisitive self-driven full stack web developer with a passion for exploring modern technologies.
 
@@ -11,4 +11,4 @@ I am incredibly passionate about everything I do, from snowboarding and golfing 
 
 I am a professional Googler. 
 
-#Projects 
+# Projects 
