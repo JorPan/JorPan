@@ -27,4 +27,4 @@ towards algorithmic problem-solving and my eagerness to be a life-long learner. 
 
 # Get in Touch 🐚
 
-[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css](https://jorpantech.medium.com/)
+[(https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css)](https://jorpantech.medium.com/)
