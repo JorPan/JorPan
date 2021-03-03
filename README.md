@@ -25,7 +25,7 @@ towards algorithmic problem-solving and my eagerness to be a life-long learner. 
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)
 
-# Get in Touch 🐚
+# Find Me Online  🐚
 [LinkedIn](https://www.linkedin.com/in/jordan-panasewicz/) | 
 [YouTube](https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos) | 
 [Medium](https://jorpantech.medium.com/)
