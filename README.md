@@ -3,6 +3,8 @@
 [YouTube](https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos) | 
 [Medium](https://jorpantech.medium.com/)
 
+*On a quick trip in the Grandy Canyon*
+
 I am an inquisitive self-driven full stack web developer with a deep passion for exploring new technologies via coding, photography, video editing, projection mapping, and music production and performance. 
 
 I transitioned from Software Sales to Software Development based on my natural enthusiasm
