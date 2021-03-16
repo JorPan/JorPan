@@ -3,7 +3,7 @@
 [YouTube](https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos) | 
 [Medium](https://jorpantech.medium.com/)
 
-*On a quick trip in the Grand Canyon*
+*Recently returned from a quick trip to the Grand Canyon*
 
 I am an inquisitive self-driven full stack web developer with a deep passion for exploring new technologies via coding, photography, video editing, projection mapping, and music production and performance. 
 
