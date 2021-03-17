@@ -30,8 +30,11 @@ towards algorithmic problem-solving and my eagerness to be a life-long learner. 
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)
 
-# Find Me Online  
-[LinkedIn](https://www.linkedin.com/in/jordan-panasewicz/) | 
-[YouTube](https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos) | 
-[Medium](https://jorpantech.medium.com/)
+# Find Me Online 
+
+<p><a href="https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> 
+<a href="https://www.linkedin.com/in/jordan-panasewicz/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge">
+<a href="mailto:jbpanasewicz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> 
+<a href="https://jorpantech.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"></p>
+
 
