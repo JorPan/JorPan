@@ -16,7 +16,7 @@ towards algorithmic problem-solving and my eagerness to be a life-long learner. 
 
 # Projects
 
-**Mode.ify** | [Demo](https://www.youtube.com/watch?v=HNiOuJO_xKI) | [Frontend Repo](https://github.com/JorPan/musicly-frontend) | React & Node/Express/Knex/Objection + Sharp 11 & Tonal.JS
+| [Demo](https://www.youtube.com/watch?v=HNiOuJO_xKI) | [Frontend Repo](https://github.com/JorPan/musicly-frontend) | React & Node/Express/Knex/Objection + Sharp 11 & Tonal.JS
 
 🎹   An engaging digital piano keyboard that maps to your computer keyboard. Featuring intuitive chord and chord progression builders, plus suggestions for chord extensions, and additional suggestions based on your selected key, scale, mode, etc. Over 4,000 recognized chords and 168 scales to narrow your results, and over 120 sounds to choose from! 
 
