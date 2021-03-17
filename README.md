@@ -1,7 +1,5 @@
 # Hello! I'm Jordan! 🎵 🎺 🎹 📷 🎥 💻 🏂 ⛳ 
 
-
-# About Me
 <p>
 I am an inquisitive self-driven full stack web developer with a deep passion for exploring new technologies via coding, photography, video editing, projection mapping, and music production and performance. 
 
