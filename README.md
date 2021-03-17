@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"/> 
 <a href="https://www.linkedin.com/in/jordan-panasewicz/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"/>
 <a href="mailto:jbpanasewicz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"/> 
-<a href="https://jorpantech.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"/>
+<a href=""><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"/>
 </p>
 
 # About Me
@@ -15,7 +15,6 @@ towards algorithmic problem-solving and my eagerness to be a life-long learner. 
 </p>
 
 # Projects
-
 
 **Mode.ify** | [Demo](https://www.youtube.com/watch?v=HNiOuJO_xKI) | [Frontend Repo](https://github.com/JorPan/musicly-frontend) | React & Node/Express/Knex/Objection + Sharp 11 & Tonal.JS
 
