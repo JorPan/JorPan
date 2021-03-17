@@ -34,3 +34,4 @@ towards algorithmic problem-solving and my eagerness to be a life-long learner. 
 [LinkedIn](https://www.linkedin.com/in/jordan-panasewicz/) | 
 [YouTube](https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos) | 
 [Medium](https://jorpantech.medium.com/)
+
