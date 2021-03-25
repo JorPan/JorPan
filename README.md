@@ -47,7 +47,7 @@ towards algorithmic problem-solving and my eagerness to be a life-long learner. 
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=100/>
 </p>
 
-# Find Me Online 
+# Contact & Media
 
 <p><a href="https://www.youtube.com/channel/UC7kqpbrNDD88o0yyEJ-lDGg/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> 
 <a href="https://www.linkedin.com/in/jordan-panasewicz/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge">
