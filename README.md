@@ -1,7 +1,7 @@
 # Hello! I'm Jordan! 🎵 🎺 🎹 📷 🎥 💻 🏂 ⛳ 
 
 <p>
-I am an inquisitive self-driven full stack web developer with a deep passion for exploring new technologies via coding, photography, video editing, projection mapping, and music production and performance. 
+I am an inquisitive self-driven full stack web developer with a deep passion for exploring new technologies via coding, photography, video editing, projection mapping, electric vehicles, and music production and performance. 
 
 I transitioned from Software Sales to Software Development based on my natural enthusiasm
 towards algorithmic problem-solving and my eagerness to be a life-long learner. I believe that any complex problem can be broken down into manageable chunks and solved with due diligence. 
