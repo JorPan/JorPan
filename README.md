@@ -1,7 +1,7 @@
 # Hello! I'm Jordan! 🎵 🎺 🎹 📷 🎥 💻 🏂 ⛳ 
 
 <p>
-I am an inquisitive self-driven full stack software engineer with a passion for exploring new technologies. I transitioned from Software Sales into Software Engineering because of my obsession with utilizing, and essentially abusing technology. My eagerness to explore new softwares, and eagerness to be a life-long learner have gotten me to where I am today. I believe that any complex problem can be broken down into manageable pieces and solved with due diligence. I am incredibly passionate about everything I do, from snowboarding and golfing to exploring new technologies via coding, photography, video editing, projection mapping, and music production & performance.
+I am an inquisitive self-driven full stack software engineer with a passion for exploring new technologies. I transitioned from Software Sales into Software Engineering because of my obsession with utilizing, and essentially abusing technology. My eagerness to explore new softwares, and commitment to being a life-long learner have gotten me to where I am today. I believe that any complex problem can be broken down into manageable pieces and solved with due diligence. I am incredibly passionate about everything I do, from snowboarding and golfing to exploring new technologies via coding, photography, video editing, projection mapping, and music production & performance.
 
 I have also gained invaluable experience through my deep dive into software sales with demonstrated success working both individually and as a team in the ever expanding tech and SaaS space. 
 </p>
