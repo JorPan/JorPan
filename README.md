@@ -22,7 +22,7 @@ I have also gained invaluable experience through my deep dive into software sale
 
 **Herbals** | [Demo](https://youtu.be/DBSvbyIl-LU) | [Deployed App](https://herbalstrains.web.app/) | [Frontend Repo](https://github.com/JorPan/HerbalsFrontend) | [Backend Repo](https://github.com/JorPan/HerbalsBackend) | Vanilla JS & Ruby on Rails
 
-🌿 Looking for that perfect recreational medication? Select desired effects, medical effects, and negative effects to avoid, Herbals filters through about 2,000 strains of cannabis to show users what strains match their needs! Also view flavors and type (indica/ sativa/ hybrid), and search for strains by keyword. 
+🌿 Looking for that perfect recreational medication? Select desired effects, medical effects, and negative effects to avoid, Herbals filters through about 2,000 strains of cannabis to show users what strains match their needs! Also view flavors and type (indica/ sativa/ hybrid), and search for strains by keyword. (The 3rd party API used to create this app has been taken down, so the app no longer displays any information.)
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)
 
