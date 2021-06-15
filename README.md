@@ -1,11 +1,13 @@
-# Hello! I'm Jordan! 🎵 🎺 🎹 📷 🎥 💻 🏂 ⛳ 
-
-
-<p>
-I am an inquisitive self-driven full stack software engineer with a passion for exploring new technologies. I transitioned from Software Sales into Software Engineering because of my obsession with utilizing, and essentially abusing technology. My eagerness to explore new softwares, and commitment to being a life-long learner have gotten me to where I am today. I believe that any complex problem can be broken down into manageable pieces and solved with due diligence. I am incredibly passionate about everything I do, from snowboarding and golfing to exploring new technologies via coding, photography, video editing, projection mapping, and music production & performance.
-
-I have also gained invaluable experience through my deep dive into software sales with demonstrated success working both individually and as a team in the ever expanding tech and SaaS space. 
-</p>
+# Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
+<ul>
+  <li><b>Keywords:</b> Passionate, Inquisitive, Lifelong Learner, Creative</li>
+  <li><b>Coding Skills:</b> JS, React, HTML, CSS, Ruby, Rails, Node</li>
+  <li><b>Currently Learning:</b> Python, Next.JS, TDD</li>
+  <li><b>Professional History:</b> Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
+  <li><b>Eductation:</b> Flatiron School - Full Stack Immersive, Fort Lewis College - Double Major in Tourism & Hospitality Management and Marketing</li>
+  <li><b>Hobbies:</b> Music Production, Photo & Video Editing, Projection Mapping, Electric Vehicles, Woodworking, Golf, Snowboarding, Hiking, etc.</li>
+  <li><b>Focuses:</b> React Development, Self-Improvement, Ongoing Education, Getting Funky</li>
+</ul>
 
 # Projects
 
