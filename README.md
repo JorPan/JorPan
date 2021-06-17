@@ -2,7 +2,7 @@
 <ul>
   <li><b>Keywords:</b> Passionate, Inquisitive, Lifelong Learner, Creative</li>
   <li><b>Coding Skills:</b> JS, React, HTML, CSS, Ruby, Rails, Node</li>
-  <li><b>Currently Learning:</b> Next.js, Python, TDD</li>
+  <li><b>Currently Learning:</b> Next.js, Python, Redux</li>
   <li><b>Professional History:</b> Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
   <li><b>Education:</b> Flatiron School - Full Stack Immersive, Fort Lewis College - Double Major: Tourism & Hospitality Management and Marketing</li>
   <li><b>Hobbies:</b> Music Production, Photo & Video Editing, Projection Mapping, Electric Vehicles, Woodworking, Golf, Snowboarding, Hiking, etc.</li>
