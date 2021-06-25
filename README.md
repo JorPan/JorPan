@@ -23,9 +23,9 @@
 
 🎵 Designed for DJ's and modern performers, SetLy allows arist users to store, view, and edit their song library. Then they can use the camelot circle of 5ths to build a new set from their library matching the key and tempo of each track, and using intuitive Drag and Drop capabilities. Artist users can then keep track of concert data, not only what songs they played, but also how many tickets they sold and the revenue they earned. Concert Goers can click on past shows to see the full set list, and add to their past concert list, accunlating data like how many times they've seen a certain artist play their favorite song.
 
-**Herbals** | [Demo](https://youtu.be/DBSvbyIl-LU) | [Deployed App *compromised due to 3rd party API no longer available*](https://herbalstrains.web.app/) | [Frontend Repo](https://github.com/JorPan/HerbalsFrontend) | [Backend Repo](https://github.com/JorPan/HerbalsBackend) | Vanilla JS & Ruby on Rails
+**Herbals** | [Demo](https://youtu.be/DBSvbyIl-LU) | [Frontend Repo](https://github.com/JorPan/HerbalsFrontend) | [Backend Repo](https://github.com/JorPan/HerbalsBackend) | Vanilla JS & Ruby on Rails
 
-🌿 Looking for that perfect recreational medication? Select desired effects, medical effects, and negative effects to avoid, Herbals filters through about 2,000 strains of cannabis to show users what strains match their needs! Also view flavors and type (indica/ sativa/ hybrid), and search for strains by keyword. (The 3rd party API used to create this app has been taken down, so the app no longer displays any information.)
+🌿 Looking for that perfect recreational medication? Select desired effects, medical effects, and negative effects to avoid, Herbals filters through about 2,000 strains of cannabis to show users what strains match their needs! Also view flavors and type (indica/ sativa/ hybrid), and search for strains by keyword. (Deployed through Heroku and Firebase [here](https://herbalstrains.web.app/) BUT The 3rd party API used to create this app has been taken down, so the app unfortunately no longer displays any strain information.)
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)
 
