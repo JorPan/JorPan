@@ -1,8 +1,8 @@
 # Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
 <ul>
   <li><b>Keywords:</b> Passionate, Inquisitive, Lifelong Learner, Creative</li>
-  <li><b>Coding Skills:</b> TS, JS, React, HTML, CSS, Ruby, Rails, Node</li>
-  <li><b>Currently Learning:</b> TypeScript, Next.js, Python </li>
+  <li><b>Coding Skills:</b> TypeScript, JS, React, HTML, CSS, Ruby, Rails, Node</li>
+  <li><b>Currently Learning:</b> Python, Next.JS </li>
   <li><b>Professional History:</b> Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
   <li><b>Relevant Education:</b> Flatiron School - Full Stack Immersive: JS, React, Ruby, Rails, & Node.</li> 
   <li><b>Prior Education:</b> Fort Lewis College - Double Major: Marketing, and Tourism & Hospitality Management</li>
