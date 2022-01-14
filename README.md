@@ -30,6 +30,10 @@
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)
 
+# Experience
+Skuid Inc. - Product Applications Engineer - Oct 2021 - Current
+Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021
+
 # Technologies
 <p><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=30 width=100/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>
