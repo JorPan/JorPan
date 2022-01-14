@@ -10,6 +10,11 @@
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Self-Improvement, Getting Funky</li>
 </ul>
 
+# Experience
+Skuid Inc. - Product Applications Engineer - Oct 2021 - Current
+Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021
+Flatiron School - Full Stack Engineering Immersive: Javascript, React, Node, Ruby & Ruby on Rails.
+
 # Projects
 
 **Mode.ify** | [Demo](https://www.youtube.com/watch?v=HNiOuJO_xKI) | [Frontend Repo](https://github.com/JorPan/musicly-frontend) | React & Node/Express/Knex/Objection + Sharp 11 & Tonal.JS
@@ -29,10 +34,6 @@
 🌿 Looking for that perfect recreational medication? Select desired effects, medical effects, and negative effects to avoid, Herbals filters through about 2,000 strains of cannabis to show users what strains match their needs! Also view flavors and type (indica/ sativa/ hybrid), and search for strains by keyword. (Deployed through Heroku and Firebase [here](https://herbalstrains.web.app/) BUT The 3rd party API used to create this app has been taken down, so the app unfortunately no longer displays any strain information.)
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)
-
-# Experience
-Skuid Inc. - Product Applications Engineer - Oct 2021 - Current
-Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021
 
 # Technologies
 <p><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=30 width=100/>
