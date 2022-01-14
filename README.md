@@ -11,9 +11,11 @@
 </ul>
 
 # Experience
-Skuid Inc. - Product Applications Engineer - Oct 2021 - Current
-Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021
-Flatiron School - Full Stack Engineering Immersive: Javascript, React, Node, Ruby & Ruby on Rails.
+<p>Skuid Inc. - Product Applications Engineer - Oct 2021 - Current<p>
+  <br/>
+<p>Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021</p>
+<br/>
+<p>Flatiron School - Full Stack Engineering Immersive: Javascript, React, Node, Ruby & Ruby on Rails.</p>
 
 # Projects
 
