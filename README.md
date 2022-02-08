@@ -11,7 +11,7 @@
 </ul>
 
 # Experience
-<p>Skuid Inc. - Product Applications Engineer - Oct 2021 - Current<p>
+<p>Skuid Inc. - Product Applications Engineer: JS, Node, Skuid Builder, SalesForce, AWS - Oct 2021 - Current<p>
 <p>Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021</p>
 <p>Flatiron School - Full Stack Engineering Immersive: Javascript, React, Node, Ruby & Ruby on Rails.</p>
 
