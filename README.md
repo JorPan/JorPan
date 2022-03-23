@@ -11,7 +11,7 @@
 </ul>
 
 # Experience
-<img src="https://user-images.githubusercontent.com/70975560/159796138-096a5c13-2124-441f-a415-b6388b5e46e0.png" width='40px'/>
+<img src="https://user-images.githubusercontent.com/70975560/159796138-096a5c13-2124-441f-a415-b6388b5e46e0.png" width='60px'/>
 <p>Skuid Inc. - Product Applications Engineer: JS, Node, Skuid Builder, SalesForce, AWS - Oct 2021 - Current<p>
 <p>Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021</p>
 <p>Flatiron School - Full Stack Engineering Immersive: Javascript, React, Node, Ruby & Ruby on Rails.</p>
