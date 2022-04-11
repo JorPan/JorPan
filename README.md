@@ -1,6 +1,6 @@
 # Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
 <ul>
-  <li><b>Keywords:</b> Passionate, Inquisitive, Lifelong Learner, Creative</li>
+  <li><b>Keywords:</b> Passionate, Inquisitive, Creative </li>
   <li><b>Coding Skills:</b> TypeScript, JS, React, HTML, CSS, Ruby, Rails, Node</li>
   <li><b>Currently Learning:</b> Python, Next.JS </li>
   <li><b>Professional History:</b> Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
