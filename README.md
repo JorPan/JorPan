@@ -7,7 +7,7 @@
   <li><b>Relevant Education:</b> Flatiron School - Full Stack Immersive: JS, React, Ruby, Rails, & Node.</li> 
   <li><b>Prior Education:</b> Fort Lewis College - Double Major: Marketing, and Tourism & Hospitality Management</li>
   <li><b>Hobbies:</b> Music Production, Photo & Video Editing, Projection Mapping, Electric Vehicles, Woodworking, Golf, Snowboarding, Hiking.</li>
-  <li><b>Focuses:</b> React & Node Development, Ongoing Education, Self-Improvement, Getting Funky</li>
+  <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
 </ul>
 
 # Experience
