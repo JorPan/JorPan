@@ -16,7 +16,7 @@
 <p>Skuid Inc. - Product Applications Engineer: JS, Node, Skuid Builder, SalesForce, AWS - Oct 2021 - Current<p>
 <img src='https://candyfactorycoworking.com/wp-content/uploads/2020/03/neurocann-300x283.png' width='60px' />
 <p>Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021</p>
-<img src='https://yt3.ggpht.com/OdqbqZ6lz56qqxAxrnEqXV077THYZKbMioRHHJziknXycajWeueGwvhi-VRy88H3cfpYeUy6JQ=s900-c-k-c0x00ffffff-no-rj' width='60px' />
+<img src='https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/8/original/flatironschool.png' width='60px' />
 <p>Flatiron School - Full Stack Engineering Immersive: Javascript, React, Node, Ruby & Ruby on Rails.</p>
 
 # Projects
