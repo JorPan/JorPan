@@ -1,6 +1,7 @@
 # Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
 <ul>
   <li><b>Keywords:</b> Passionate, Inquisitive, Creative </li>
+  <li><b>Currently Learning:</b> Angular </li>
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
   <li><b>Coding Skills:</b> TypeScript, JS, React, Next, Node, HTML, CSS, Ruby, Rails, Python, AWS</li>
   <li><b>Currently Learning:</b> Difinity, Internet Computer, Blockchain tech, Canvas & Sketch for visual fx programming  </li>
