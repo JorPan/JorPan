@@ -3,7 +3,7 @@
   <li><b>Keywords:</b> Passionate, Inquisitive, Creative </li>
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
   <li><b>Coding Skills:</b> TypeScript, JS, React, Next, Node, HTML, CSS, Ruby, Rails, Python, AWS</li>
-  <li><b>Currently Learning:</b> Angular, Internet Computer, Blockchain, Canvas & Sketch for visual fx programming  </li>
+  <li><b>Currently Learning:</b> Angular, Blockchain, Canvas & Sketch for visual fx programming  </li>
   <li><b>Professional History:</b> Software Engineering, Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
   <li><b>Relevant Education:</b> Flatiron School - Full Stack Immersive: JS, React, Ruby, Rails, & Node.</li> 
   <li><b>Prior Education:</b> Fort Lewis College - Double Major: Marketing, and Tourism & Hospitality Management</li>
