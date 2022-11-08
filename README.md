@@ -1,7 +1,5 @@
 # Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
 
-Out Of Office 11/2-11/7
-
 <ul>
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
   <li><b>Coding Skills:</b> TS, JS, React, Next, Node, HTML, CSS, Ruby, Rails, Python, AWS</li>
