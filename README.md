@@ -2,7 +2,7 @@
 
 <ul>
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
-  <li><b>Coding Skills:</b> TS/JS, React/Next, Angular, Node, HTML, CSS, Ruby/Rails, AWS</li>
+  <li><b>Coding Skills:</b> TS/JS, React/Next, TailWindCSS, Angular, Node, HTML, CSS, Ruby/Rails, AWS</li>
   <li><b>Currently Learning:</b> Blockchain, Canvas & Sketch for visual fx programming  </li>
   <li><b>Professional History:</b> Software Engineering (2 years), Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
   <li><b>Relevant Education:</b> Flatiron School - Full Stack Immersive: JS, React, Ruby, Rails, & Node.</li> 
