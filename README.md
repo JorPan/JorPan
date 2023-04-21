@@ -1,5 +1,7 @@
 # Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
 
+Technology obsessed full stack developer - Open to work opportunities! 
+
 <ul>
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
   <li><b>Coding Skills:</b> TS/JS, React/Next, TailWindCSS, Angular, Node, HTML, CSS, Ruby/Rails, AWS</li>
