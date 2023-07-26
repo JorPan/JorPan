@@ -1,5 +1,7 @@
 # Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
 
+Open to work opportunities!
+
 Technology obsessed full stack developer
 
 <ul>
