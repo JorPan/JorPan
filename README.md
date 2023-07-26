@@ -1,6 +1,6 @@
 # Hello! I'm Jordan Panasewicz! 💻 🎵 🎺 🎹 📷 🎥 🏂 ⛳ 
 
-Technology obsessed full stack developer - Open to work opportunities! 
+Technology obsessed full stack developer
 
 <ul>
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
