@@ -40,7 +40,7 @@ Technology obsessed full stack developer
 
 🎵 Designed for DJ's and modern performers, SetLy allows arist users to store, view, and edit their song library. Then they can use the camelot circle of 5ths to build a new set from their library matching the key and tempo of each track, and using intuitive Drag and Drop capabilities. Artist users can then keep track of concert data, not only what songs they played, but also how many tickets they sold and the revenue they earned. Concert Goers can click on past shows to see the full set list, and add to their past concert list, accunlating data like how many times they've seen a certain artist play their favorite song.
 
-[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)
+<![![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorpan&show_icons=true&theme=tokyonight)](https://github.com/jorpan/github-readme-stats)>
 
 # Technologies
 <p><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=30 width=100/>
