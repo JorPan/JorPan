@@ -17,8 +17,9 @@ Technology obsessed full stack developer
 
 # Experience
 <img src="https://user-images.githubusercontent.com/70975560/159796138-096a5c13-2124-441f-a415-b6388b5e46e0.png" width='60px'/>
-<p>Skuid Inc. - Product Engineer: Angular, TS, Node, NLX7, AWS - Sept 2022 - Current<p>
-<p>Skuid Inc. - Product Applications Engineer: JS, Node, Skuid Builder, SalesForce, AWS - Oct 2021 - Sept 2022<p>
+<p>Skuid Inc.</p> 
+<p>- Product Engineer: Angular, TS, Node, NLX7, AWS - Sept 2022 - Current<p>
+<p>- Product Applications Engineer: JS, Node, Skuid Builder, SalesForce, AWS - Oct 2021 - Sept 2022<p>
 <img src='https://candyfactorycoworking.com/wp-content/uploads/2020/03/neurocann-300x283.png' width='60px' />
 <p>Neurocann - Full Stack Software Engineer: React & Node with TypeScript, AWS - April 2021 - Oct - 2021</p>
 <img src='https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/8/original/flatironschool.png' width='60px' />
