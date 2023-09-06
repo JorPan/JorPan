@@ -2,6 +2,8 @@
 
 **Open to work opportunities!**
 
+AI Enthusiast, Blockchain nerd, Full Stack Developer, Relationship Builder, Joy Maker
+
 Technology obsessed full stack developer
 
 <ul>
