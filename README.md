@@ -20,7 +20,7 @@ AI Enthusiast, Blockchain nerd, Full Stack Developer, Relationship Builder, Joy 
 </ul>
 
 # Experience
-<img src="[https://user-images.githubusercontent.com/70975560/159796138-096a5c13-2124-441f-a415-b6388b5e46e0.png](https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/jzbrmvq5ufyi8h4vkdci)" width='60px'/>
+<img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/jzbrmvq5ufyi8h4vkdci" width='60px'/>
 <p>SCINET</p> 
 <p>- Full Stack Engineer: Next / React w/ TypeScript, Motoko, Tailwind CSS, AWS, ICP Blockchain<p>
 <img src="https://user-images.githubusercontent.com/70975560/159796138-096a5c13-2124-441f-a415-b6388b5e46e0.png" width='60px'/>
