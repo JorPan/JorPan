@@ -10,7 +10,7 @@ AI Enthusiast, Blockchain nerd, Full Stack Developer, Relationship Builder, Joy 
 
 <ul>
   <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
-  <li><b>Coding Skills:</b> TS/JS, React/Next, TailWindCSS, Angular, Node, HTML, CSS, Ruby/Rails, AWS</li>
+  <li><b>Coding Skills:</b> TS/JS, React/Next, TailWindCSS, Motoko, Angular, Node, HTML, CSS, Ruby/Rails, AWS</li>
   <li><b>Currently Learning:</b> Blockchain, Canvas & Sketch for visual fx programming  </li>
   <li><b>Professional History:</b> Software Engineering (2 years), Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
   <li><b>Relevant Education:</b> Flatiron School - Full Stack Immersive: JS, React, Ruby, Rails, & Node.</li> 
@@ -20,6 +20,9 @@ AI Enthusiast, Blockchain nerd, Full Stack Developer, Relationship Builder, Joy 
 </ul>
 
 # Experience
+<img src="[https://user-images.githubusercontent.com/70975560/159796138-096a5c13-2124-441f-a415-b6388b5e46e0.png](https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/jzbrmvq5ufyi8h4vkdci)" width='60px'/>
+<p>SCINET</p> 
+<p>- Full Stack Engineer: Next / React w/ TypeScript, Motoko, Tailwind CSS, AWS, ICP Blockchain<p>
 <img src="https://user-images.githubusercontent.com/70975560/159796138-096a5c13-2124-441f-a415-b6388b5e46e0.png" width='60px'/>
 <p>Skuid Inc.</p> 
 <p>- Product Engineer: Angular, TS, Node, NLX7, AWS - Sept 2022 - Current<p>
