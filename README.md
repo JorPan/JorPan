@@ -2,9 +2,12 @@
 
 **Open to work opportunities!**
 
-
-
-AI Enthusiast, Blockchain nerd, Full Stack Developer, Relationship Builder, Joy Maker
+- Full-Stack Developer, Front-End Expert. 
+- AI Enthusiast & Blockchain Nerd, 
+- Obsessed with Communication & Transparency, 
+- Advocate of Life Long Learning & Growth,
+- Mentor and Mentee, Always & Forever,
+- Funky Weirdo. 
 
 
 
