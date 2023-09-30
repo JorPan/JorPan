@@ -2,6 +2,7 @@
 
 **Open to work opportunities!**
 
+Overview:
 - Full-Stack Developer, Front-End Expert. 
 - AI Enthusiast & Blockchain Nerd, 
 - Obsessed with Communication & Transparency, 
@@ -9,18 +10,6 @@
 - Mentor and Mentee, Always & Forever,
 - Funky Weirdo. 
 
-
-
-<ul>
-  <li><b>Focuses:</b> React & Node Development, Ongoing Education, Getting Funky</li>
-  <li><b>Coding Skills:</b> TS/JS, React/Next, TailWindCSS, Motoko, Angular, Node, HTML, CSS, Ruby/Rails, AWS</li>
-  <li><b>Currently Learning:</b> Blockchain, Canvas & Sketch for visual fx programming  </li>
-  <li><b>Professional History:</b> Software Engineering (2 years), Software Sales (6 years), Tourism & Hospitality (5 years), Marketing (2 years)</li>
-  <li><b>Relevant Education:</b> Flatiron School - Full Stack Immersive: JS, React, Ruby, Rails, & Node.</li> 
-  <li><b>Prior Education:</b> Fort Lewis College - Double Major: Marketing, and Tourism & Hospitality Management</li>
-  <li><b>Hobbies:</b> Music Production, Photo & Video Editing, Projection Mapping, Electric Vehicles, Woodworking, Golf, Snowboarding, Hiking.</li>
-
-</ul>
 
 # Experience
 <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/jzbrmvq5ufyi8h4vkdci" width='60px'/>
